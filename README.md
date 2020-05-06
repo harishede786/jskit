@@ -1,0 +1,2 @@
+# jskit
+javascript startup kit
